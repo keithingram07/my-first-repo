@@ -73,8 +73,6 @@ ul {
   margin: 0;
   padding: 0; 
 }
-
-
 ul li {
   list-style: none;
   width: 40px;
@@ -83,7 +81,6 @@ ul li {
   border-radius: 50%;
   animation: grow 1.6s ease-in-out infinite;
 }
-
 @keyframes grow {
   0% ,
   40% ,
